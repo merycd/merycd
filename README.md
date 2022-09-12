@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  Maryane Didone
+  Maryane C. Didone
   <br>
 </h1>
 
@@ -30,8 +30,9 @@
 ## Who is me
 
 * Hi my name is Maryane, I live in a city next to Sao Paulo, Brazil.
-* I like to play games and trying to learn eletric guitar too. I'm curious and like to learn aleatory things so I always studying.
-* I have bachelor degree in Information Systems and have a 
+* I like to play games!! Now I trying to learn eletric guitar too. I'm curious and like to learn aleatory things so I always studying.
+* I have bachelor degree in Information Systems and graduate degree in Data Science and Analytics. I work with technology a long time (more than ten years), have experience with oracle database, PL/SQL and ETL.
+
 
 
 <!--  ###### COMENTADO  
@@ -75,7 +76,7 @@ Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning
 
 ## Projects
 
-Some projects to share:
+* Here you will find some projects that I do to being a best profissional and for my own curiosity:
 
 - [Projeto 1](http://electron.atom.io/)
 - [Projeto 2](https://nodejs.org/)
