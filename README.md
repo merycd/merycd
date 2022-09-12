@@ -76,7 +76,7 @@ Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning
 
 ## Projects
 
-* Here you will find some projects that I do to being a best profissional and for my own curiosity:
+Here you will find some projects that I do to being a best professional and for my own curiosity:
 
 - [Projeto 1](http://electron.atom.io/)
 - [Projeto 2](https://nodejs.org/)
