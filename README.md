@@ -78,7 +78,7 @@ Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning
 
 Here you will find some projects that I do to being a best professional and for my own curiosity:
 
-- [Projeto 1](http://electron.atom.io/)
+- [Titanic Competition at Kaggle](https://www.kaggle.com/code/maryanedidone/titanic-competition-mary)
 - [Projeto 2](https://nodejs.org/)
 - [Projeto 3](https://github.com/chjj/marked)
 
